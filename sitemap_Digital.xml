@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://paypal.dev/wp-content/plugins/woocommerce-catsitemap/urlset.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+<loc>http://paypal.dev/product/green-camera/</loc>\n<lastmod>2015-10-06 09:20:57</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/mobile-double-flash/</loc>\n<lastmod>2015-08-18 07:43:37</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/new-style-camera/</loc>\n<lastmod>2015-08-18 07:41:57</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/modern-cellphone-camera-2/</loc>\n<lastmod>2015-08-18 07:39:38</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/new-digital-camera/</loc>\n<lastmod>2015-08-18 07:32:56</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>

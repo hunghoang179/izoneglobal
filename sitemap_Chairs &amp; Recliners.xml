@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://paypal.dev/wp-content/plugins/woocommerce-catsitemap/urlset.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+<loc>http://paypal.dev/product/comfort-chair/</loc>\n<lastmod>2015-08-18 07:55:31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/interesting-chair/</loc>\n<lastmod>2015-08-18 07:11:11</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/white-chair/</loc>\n<lastmod>2015-08-18 07:00:30</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://paypal.dev/product/beautiful-chair/</loc>\n<lastmod>2015-08-18 06:47:31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>
